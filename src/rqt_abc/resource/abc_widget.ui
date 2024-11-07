@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>pagechangeWidget</class>
+ <widget class="QWidget" name="pagechangeWidget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>696</width>
+    <height>664</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Abc</string>
+  </property>
+  <widget class="QStackedWidget" name="stackedWidget">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>20</y>
+     <width>120</width>
+     <height>281</height>
+    </rect>
+   </property>
+   <property name="currentIndex">
+    <number>2</number>
+   </property>
+   <widget class="QWidget" name="page">
+    <widget class="QPushButton" name="Uptime1Button">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>70</y>
+       <width>80</width>
+       <height>26</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Uptime</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="Mileage1Button">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>110</y>
+       <width>80</width>
+       <height>26</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Mileage</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="menu1Button">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>30</y>
+       <width>80</width>
+       <height>26</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>menu</string>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QWidget" name="page_2">
+    <widget class="QPushButton" name="menu2Button">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>30</y>
+       <width>80</width>
+       <height>26</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>menu</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="Mileage2Button">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>110</y>
+       <width>80</width>
+       <height>26</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Mileage</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="Uptime2Button">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>70</y>
+       <width>80</width>
+       <height>26</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Uptime</string>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QWidget" name="page_3">
+    <widget class="QPushButton" name="menu3Button">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>30</y>
+       <width>80</width>
+       <height>26</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>menu</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="Uptime3Button">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>70</y>
+       <width>80</width>
+       <height>26</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Uptime</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="Mileage3Button">
+     <property name="geometry">
+      <rect>
+       <x>20</x>
+       <y>110</y>
+       <width>80</width>
+       <height>26</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Mileage</string>
+     </property>
+    </widget>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

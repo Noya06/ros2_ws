@@ -1,0 +1,2 @@
+Invoking command in '/home/yugo/ros2_ws/src/rqt_abc/build/rqt_abc': /usr/bin/cmake /home/yugo/ros2_ws/src/rqt_abc -DCMAKE_INSTALL_PREFIX=/home/yugo/ros2_ws/src/rqt_abc/install/rqt_abc
+Invoked command in '/home/yugo/ros2_ws/src/rqt_abc/build/rqt_abc' returned '1': /usr/bin/cmake /home/yugo/ros2_ws/src/rqt_abc -DCMAKE_INSTALL_PREFIX=/home/yugo/ros2_ws/src/rqt_abc/install/rqt_abc
